@@ -4,4 +4,18 @@
 
 ## RECURDOS
 
+* Prefixo: !
+
+##### MODERAÇÃO:
+
+- Ban
+- Kick
+
+##### DIVERSÃO:
+
+- jogiin1
+- joguiin2
+
 ## COMMANDOS
+
+- com1
