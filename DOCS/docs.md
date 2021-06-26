@@ -19,5 +19,5 @@
 
 ## COMANDOS:
 
-- [Comandos](https://github.com/DevZeeBooL/Eris/blob/main/DOCS/commandos.md)
+- [Comandos](https://github.com/DevZeeBooL/Eris/blob/main/DOCS/comandos.md)
 
