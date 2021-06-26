@@ -7,8 +7,8 @@ Eris é um bot para discord feito pela Eris Comapany
 
 ## COMEÇANDO
 
-- [Documentação](http://google.com/)
-- [Instalação](https://google.com)
+- [Documentação](https://github.com/DevZeeBooL/Eris/blob/main/DOCS/docs.md)
+- [Instalação](https://github.com/DevZeeBooL/Eris/blob/main/DOCS/docs.md)
 
 ## DISCURÇÃO/AJUDA
 - [Forums](https://forums.pmmp.io/)
