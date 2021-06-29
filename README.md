@@ -22,7 +22,7 @@ Eris é um bot para discord feito pela Eris Comapany
 
 ## DESENVOLVEDORES
 
-**ZeeBooL Devv**
+**ZeeBooL Dev**
 
 **P3terghost**
 
