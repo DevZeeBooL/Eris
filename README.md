@@ -18,6 +18,11 @@ Eris é um bot para discord feito pela Eris Comapany
 - [Forums](https://forums.pmmp.io/)
 - [Discord](https://discord.gg/jNN86bc5M5)
 
+<hr>
+
+<h5>O codigo é só uma ilustração do real</h5>
+
+<hr>
 
 
 ## DESENVOLVEDORES
